@@ -58,7 +58,7 @@ class MainActivity2 : AppCompatActivity() {
                 imageView,
                 R.drawable.petimage1,
                 R.drawable.pet_clean
-            ) // Pass ImageView reference
+            )
         }
 
         btnplay.setOnClickListener {

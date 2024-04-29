@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/paw"
+    android:background="@drawable/img"
     tools:context=".MainActivity2">
 
     <TextView
@@ -16,7 +16,7 @@
         android:layout_marginTop="48dp"
         android:autoSizeTextType="uniform"
         android:background="#512DA8"
-        android:fontFamily="@font/black_and_white_picture"
+        android:fontFamily="@font/creepster"
         android:gravity="center"
         android:text="@string/hunger"
         android:textColor="#B0BEC5"

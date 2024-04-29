@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">my pet app</string>
+    <string name="next">next</string>
+    <string name="clean">clean</string>
+    <string name="feed">feed</string>
+    <string name="happy">happy</string>
+    <string name="hunger">hunger</string>
+    <string name="clean1">clean</string>
+    <string name="happy1">happy</string>
+    <string name="happiness">happiness</string>
+    <string name="cleanliness">cleanliness</string>
+</resources>
